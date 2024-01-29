@@ -1,3 +1,5 @@
 # MASD
 ##  Unsupervised Machine Learning Pipeline for Noisy High-dimensional Spectral Data
-This repository is an attempt to implement the kneedle algorithm, published here. Given a set of x and y values, kneed will return the knee point of the function. The knee point is the point of maximum curvature.
+This repository contains two Python scripts that implement an unsupervised machine learning (ML) pipeline devoloped under the supervision of professor
+Giancarlo Franzese (University of Barcelona, Spain). It also contains a dataset, named dataset_fibrinogen, of spectral data of the following
+type: UV Resonant Raman (UVRR), Circular Dichroism (CD) and UV Absorbance (Abs.) obtained from  Elettra Sincrotone Trieste facility, at Trieste (Italy).
