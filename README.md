@@ -7,9 +7,11 @@ This repository contains two Python scripts that implement an unsupervised machi
 
 ## Table of contents
 
-1. Installation
+1. [Installation](#Installation)
 2. Usage
 ⋅⋅* Input Data
 1. Documentation 
 ⋅⋅1. Ordered sub-list
 4. Citation
+
+## Installation
