@@ -7,9 +7,9 @@ This repository contains two Python scripts that implement an unsupervised machi
 
 ## Table of contents
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
+1. Installation
+2. Usage
+⋅⋅* Input Data
+1. Documentation 
 ⋅⋅1. Ordered sub-list
-4. And another item.
+4. Citation
