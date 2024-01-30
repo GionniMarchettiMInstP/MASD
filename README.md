@@ -16,3 +16,5 @@ This repository contains two scripts in Python that implement an unsupervised ma
 4. Citation
 
 ## Installation
+
+The scripts were tested with Python 3.8.10. 3.8.16, 3.11.5
