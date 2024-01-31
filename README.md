@@ -29,7 +29,7 @@ with spectra of Fibrinogen (Fib) in solution, and also with Fib in presence of o
 The following libraries are also required for running the scripts
 The following libraries are also required for running the scripts
  - NumPy, SciPy, and Matplotlib
- - Scikit-learn
+ - [Scikit-learn](https://scikit-learn.org/stable/index.html)
 
 ## Usage
 These steps introduce how to use `metrics.py` and  `manifold_learning.py`
