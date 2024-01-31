@@ -5,18 +5,11 @@ This repository contains two scripts in Python that implement a general unsuperv
 with spectra of Fibrinogen (Fib) in solution, and also with Fib in presence of of either (Carbon) CNP nanoparticles or (Silica) SiNP nanoparticles. Details about the findings can be found in the following paper: 
 
 
-
-
-
-## Installation
-
-`MASD` has been tested  with Python 3.8.10. 3.8.16, 3.11.5
-
 ## Table of contents
 - [Python](#Python)
 - [Usage](#usage)
   - [Input Data](#input-data)
-  - [Find Knee](#find-knee)
+  - [Running Scripts](#Running-script)
   - [Visualize](#visualize)
 - [Documentation](#documentation)
 - [Interactive](#interactive)
@@ -39,8 +32,18 @@ The `fibrinogen_dataset`  ....
 
 
 
+### Running Scripts
 
-**anaconda**
+```bash
+$ python metrics.py
+```
+
+
+
+
+
+
+
 ```bash
 $ conda install -c conda-forge kneed
 ```
