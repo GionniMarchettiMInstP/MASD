@@ -37,9 +37,8 @@ The `fibrinogen_dataset`  ....
 
 ### Running Scripts
 In order to launch the scripts:
- - Edit the script changing the path to to the folder `fibrinogen_dataset` stored in your machine, e.g.
+ - Edit the script changing the path to the place where  the folder `fibrinogen_dataset` is stored in your machine, e.g. path = '/Users/gionni/Desktop/dataset_fibrinogen/'
  - Open the terminal and write the line  ```$ python metrics.py```
-```
 
 
 
