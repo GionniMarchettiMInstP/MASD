@@ -19,3 +19,22 @@ with spectra of Fibrinogen (Fib) in solution, and also with Fib in presence of o
 ## Installation
 
 `MASD` has been tested  with Python 3.8.10. 3.8.16, 3.11.5
+
+## Table of contents
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Input Data](#input-data)
+  - [Find Knee](#find-knee)
+  - [Visualize](#visualize)
+- [Documentation](#documentation)
+- [Interactive](#interactive)
+- [Contributing](#contributing)
+- [Citation](#citation)
+
+## Installation  
+`kneed` has been tested with Python 3.7, 3.8, 3.9, and 3.10.
+
+**anaconda**
+```bash
+$ conda install -c conda-forge kneed
+```
