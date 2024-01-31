@@ -32,8 +32,10 @@ The following libraries are also required for running the scripts
  - Scikit-learn
 
 ## Usage
+These steps introduce how to use `metrics.py` and  `manifold_learning.py`
 
-
+### Input Data
+The `fibrinogen_dataset`  ....
 
 
 
