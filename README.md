@@ -28,7 +28,7 @@ The following libraries are also required for running the scripts
 These steps introduce how to use `metrics.py` and  `manifold_learning.py`
 
 ### Input Data
-The `fibrinogen_dataset`  ....
+The folder `fibrinogen_dataset` contains 251 plain.txt two-column files with extension .txt . 
 
 ### Data Standardization 
 The `fibrinogen_dataset`  ....
