@@ -9,6 +9,7 @@ with spectra of Fibrinogen (Fib) in solution, and also with Fib in presence of o
 - [Python](#Python)
 - [Usage](#usage)
   - [Input Data](#input-data)
+  - [Data Standardization](#standardize-data)
   - [Running Scripts](#Running-script)
   - [Visualize](#visualize)
 - [Documentation](#documentation)
@@ -30,6 +31,8 @@ These steps introduce how to use `metrics.py` and  `manifold_learning.py`
 ### Input Data
 The `fibrinogen_dataset`  ....
 
+### Data Standardization 
+The `fibrinogen_dataset`  ....
 
 
 ### Running Scripts
