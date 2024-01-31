@@ -31,7 +31,7 @@ These steps introduce how to use `metrics.py` and  `manifold_learning.py`
 The folder `fibrinogen_dataset` contains an overall number of 251  two-column files with extension .txt corresponding to UVRR, CD UV spectra of Fibrinogen in water solution alone, and in combination of either CNP or SiNP. The ...
 
 ### Data Standardization 
-The `fibrinogen_dataset`  ....
+After the data are read by the scripts, the data are subjected to the following modifications:
 
 
 ### Running Scripts
