@@ -36,7 +36,7 @@ The `fibrinogen_dataset`  ....
 
 ### Running Scripts
 In order to launch the scripts:
- - Edit the script assigning to the variable  `path` the path where  the folder `fibrinogen_dataset` is stored in your machine, e.g. path = '/Users/myworkingfolder/dataset_fibrinogen/'
+ - Edit the scripts assigning to the variable  `path` the path where  the folder `fibrinogen_dataset` is stored in your machine, e.g. path = '/Users/myworkingfolder/dataset_fibrinogen/'
  - Open the terminal and write the line  ```$ python metrics.py``` or ```$ python manifold_learning.py```
 
 
