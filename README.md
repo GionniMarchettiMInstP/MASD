@@ -28,7 +28,7 @@ The following libraries are also required for running the scripts
 These steps introduce how to use `metrics.py` and  `manifold_learning.py`
 
 ### Input Data
-The folder `fibrinogen_dataset` contains 251 plain.txt two-column files with extension .txt . 
+The folder `fibrinogen_dataset` contains an overall number of 251  two-column files with extension .txt corresponding to UVRR, CD UV spectra of Fibrinogen in water solution alone, and in combination of either CNP or SiNP. The ...
 
 ### Data Standardization 
 The `fibrinogen_dataset`  ....
