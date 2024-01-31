@@ -13,7 +13,7 @@ with spectra of Fibrinogen (Fib) in solution, and also with Fib in presence of o
 `MASD` has been tested  with Python 3.8.10. 3.8.16, 3.11.5
 
 ## Table of contents
-- [Python Versions and Required Packages](#Python Versions and Required Packages)
+- [Python](#Python Versions)
 - [Usage](#usage)
   - [Input Data](#input-data)
   - [Find Knee](#find-knee)
