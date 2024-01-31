@@ -26,6 +26,8 @@ with spectra of Fibrinogen (Fib) in solution, and also with Fib in presence of o
 ## Python Versions and Required Packages  
 `MASD` has been tested  with Python 3.8.10. 3.8.16, 3.11.5
 
+The following libraries are also required for running the scripts
+
 
 
 **anaconda**
