@@ -7,21 +7,13 @@ with spectra of Fibrinogen (Fib) in solution, and also with Fib in presence of o
 
 
 
-## Table of contents
-
-1. [Installation](#Installation)
-2. Usage
-⋅⋅* Input Data
-1. Documentation 
-⋅⋅1. Ordered sub-list
-4. Citation
 
 ## Installation
 
 `MASD` has been tested  with Python 3.8.10. 3.8.16, 3.11.5
 
 ## Table of contents
-- [Installation](#installation)
+- [Python Versions and Required Packages](#Python Versions and Required Packages)
 - [Usage](#usage)
   - [Input Data](#input-data)
   - [Find Knee](#find-knee)
@@ -31,8 +23,10 @@ with spectra of Fibrinogen (Fib) in solution, and also with Fib in presence of o
 - [Contributing](#contributing)
 - [Citation](#citation)
 
-## Installation  
-`kneed` has been tested with Python 3.7, 3.8, 3.9, and 3.10.
+## Python Versions and Required Packages  
+`MASD` has been tested  with Python 3.8.10. 3.8.16, 3.11.5
+
+
 
 **anaconda**
 ```bash
