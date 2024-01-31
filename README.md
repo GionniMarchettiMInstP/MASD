@@ -21,7 +21,6 @@ with spectra of Fibrinogen (Fib) in solution, and also with Fib in presence of o
 `MASD` has been tested  with Python 3.8.10. 3.8.16, 3.11.5
 
 The following libraries are also required for running the scripts
-The following libraries are also required for running the scripts
  - NumPy, SciPy, and Matplotlib
  - [Scikit-learn](https://scikit-learn.org/stable/index.html)
 
@@ -37,7 +36,7 @@ The `fibrinogen_dataset`  ....
 
 ### Running Scripts
 In order to launch the scripts:
- - Edit the script changing the path to the place where  the folder `fibrinogen_dataset` is stored in your machine, e.g. path = '/Users/gionni/Desktop/dataset_fibrinogen/'
+ - Edit the script changing the variable  `path` to the place where  the folder `fibrinogen_dataset` is stored in your machine, e.g. path = '/Users/myfolder/dataset_fibrinogen/'
  - Open the terminal and write the line  ```$ python metrics.py```
 
 
