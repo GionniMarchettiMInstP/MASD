@@ -1,7 +1,7 @@
 # MASD
 
 ## MASD (Metrics Analysis of Spectral Data) is an Unsupervised Machine Learning Pipeline for Noisy High-dimensional Spectral Data that can help quantify conformational changes of protein from its composite spectra in an end-to-end fashion
-This repository contains two scripts in Python that implement a general unsupervised machine learning (ML) pipeline called MASD (Metrics Analysis of Spectral Data) developed under the supervision of professor Giancarlo Franzese (University of Barcelona, Spain). It also contains a dataset, named dataset_fibrinogen, of spectral data of the following type: UV Resonant Raman (UVRR), Circular Dichroism (CD) and UV Absorbance (Abs.) spectra, obtained from  Elettra Sincrotone Trieste facility, at Trieste (Italy). This ML methodology has been tested
+This repository contains two scripts in Python that implement a general unsupervised machine learning (ML) pipeline called MASD (Metrics Analysis of Spectral Data) developed under the supervision of professor Giancarlo Franzese (University of Barcelona, Spain). It also contains a dataset, named dataset_fibrinogen, of spectral data of the following type: UV Resonant Raman (UVRR), Circular Dichroism (CD) and UV Absorbance (UV Abs.) spectra, obtained from  Elettra Sincrotone Trieste facility, at Trieste (Italy). This ML methodology has been tested
 with spectra of Fibrinogen (Fib) in solution, and also in presence of of either (Carbon) CNP nanoparticles or (Silica) SiNP nanoparticles. Details about the findings can be found in the following paper: (Authors List) A Machine Learning Tool to Analyse Spectroscopic Changes in High-Dimensional Data published in Journal
 
 
@@ -29,7 +29,8 @@ The following libraries are also required for running the scripts
 These steps introduce how to use `metrics.py` and  `manifold_learning.py`
 
 ### Input Data
-The folder `fibrinogen_dataset` contains an overall number of 254  two-column files with extension .txt corresponding to UVRR, CD UV spectra of Fibrinogen in water solution alone, and in combination with either CNP or SiNP nanoparticles. The ...
+The folder `fibrinogen_dataset` contains an overall number of 254  two-column files with extension .txt corresponding to UVRR, CD UV spectra of Fibrinogen in water solution alone, and in combination with either CNP or SiNP nanoparticles. The are named in the following way. The files input_UVRR_i,  input_CD_i, input_UV_i where index i corresponds to a different temperature for bulk spectra. The files with same names above but with an additional label either CNP or SiO2NP, e.g.  input_UVRR_CNP_i, correspond to
+spectral data of Fibrinogen in presence of either Carbon nanoparticles or Silica nanoparticles, respectively. 
 
 ### Data Standardization 
 After the data are read by the scripts, the data are subjected to the following modifications:
