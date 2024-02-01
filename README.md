@@ -10,7 +10,7 @@ with spectra of Fibrinogen (Fib) in solution, and also with Fib in presence of o
 - [Usage](#usage)
   - [Input Data](#input-data)
   - [Data Standardization](#standardize-data)
-  - [Input Variables] (#input-variables)
+  - [Input Variables](#input-variables)
   - [Running Scripts](#Running-script)
   - [Visualize](#visualize)
 - [Documentation](#documentation)
