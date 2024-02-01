@@ -10,6 +10,7 @@ with spectra of Fibrinogen (Fib) in solution, and also with Fib in presence of o
 - [Usage](#usage)
   - [Input Data](#input-data)
   - [Data Standardization](#standardize-data)
+  - [Input Variables] (#input-variables)
   - [Running Scripts](#Running-script)
   - [Visualize](#visualize)
 - [Documentation](#documentation)
@@ -32,6 +33,9 @@ The folder `fibrinogen_dataset` contains an overall number of 254  two-column fi
 
 ### Data Standardization 
 After the data are read by the scripts, the data are subjected to the following modifications:
+
+### Input Variables
+
 
 
 ### Running Scripts
