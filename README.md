@@ -51,7 +51,7 @@ In order to launch the scripts:
 
 
 ### Citation
--- []
+
 (Authors List) A Machine Learning Tool to Analyse Spectroscopic Changes in High-Dimensional Data published in Journal
 
 
