@@ -21,7 +21,7 @@ with spectra of Fibrinogen (Fib) in solution, and also in presence of of either 
 `MASD` has been tested  with Python 3.8.10. 3.8.16, 3.11.5
 
 The following libraries are also required for running the scripts
- - NumPy, SciPy, and Matplotlib
+ - [NumPy](https://numpy.org/), [SciPy](https://scipy.org/), and [Matplotlib](https://matplotlib.org/)
  - [Scikit-learn](https://scikit-learn.org/stable/index.html)
 
 ## Usage
@@ -51,7 +51,7 @@ In order to launch the scripts:
 
 
 ### Citation
-
+-- []
 (Authors List) A Machine Learning Tool to Analyse Spectroscopic Changes in High-Dimensional Data published in Journal
 
 
