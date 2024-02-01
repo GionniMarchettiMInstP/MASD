@@ -28,12 +28,11 @@ The following libraries are also required for running the scripts
 These steps introduce how to use `metrics.py` and  `manifold_learning.py`
 
 ### Input Data
-The folder `fibrinogen_dataset` contains an overall number of 254  two-column files with extension .txt corresponding to UVRR, CD UV spectra of Fibrinogen in water solution alone, and in combination with either CNP or SiNP nanoparticles. They are named in the following way. The files input_UVRR_i,  input_CD_i, input_UV_i where index i corresponds to a different temperature for bulk spectra, i.e., Fibrinogen in solution alone. The files with same names above but with an additional label either CNP or SiO2NP, e.g.  input_UVRR_CNP_i, correspond to
+The folder `fibrinogen_dataset` contains an overall number of 254  two-column files with extension .txt corresponding to UVRR, CD UV spectra of Fibrinogen in water solution alone, and in combination with either CNP or SiNP nanoparticles. They are named in the following way. The files input_UVRR_i,  input_CD_i, input_UV_i where index i corresponds to a different temperature T for bulk spectra, i.e., Fibrinogen in solution alone. The files with same names above but with an additional label either CNP or SiO2NP, e.g.  input_UVRR_CNP_i, correspond to
 spectral data of Fibrinogen in presence of either Carbon nanoparticles or Silica nanoparticles, respectively, at each temperature. 
 
 ### Data Standardization 
-After the data are read by the scripts, the data are subjected to the following modifications: some spectral truncations, a process of combining UVRR, CD and UV specta into a single one, and finally a data standardization as routinely done in principal component analysis
-[(PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis). For details we refer the reader to publication in [Citation](#citation)
+After the data are read by the scripts, the data are subjected to the following modifications: some spectral truncations, a process of combining each UVRR, CD and UV spectrum with same temperature T into a single one, and finally a data standardization as routinely done in principal component analysis [(PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis). For details we refer the reader to publication in [Citation](#citation)
 .
 
 ### Input Variables
