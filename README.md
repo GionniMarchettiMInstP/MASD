@@ -34,7 +34,8 @@ spectral data of Fibrinogen in presence of either Carbon nanoparticles or Silica
 
 ### Data Standardization 
 After the data are read by the scripts, the data are subjected to the following modifications: some spectral truncations, a process of combining UVRR, CD and UV specta into a single one, and finally a data standardization as routinely done in principal component analysis
-[(PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis). For details we refer the reader to publication in (#citation).
+[(PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis). For details we refer the reader to publication in [Citation](#citation)
+.
 
 ### Input Variables
 
