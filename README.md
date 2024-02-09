@@ -40,7 +40,9 @@ The variables used by the script are the following:
 - nos: Number of UVRR spectra Fib, Fib + CNP, Fib + SIO2NP
 - nou: Number of UV spectra  Fib + CNP
 - noc: Number of CD spectra Fib + CNP
-
+- noua: Number of UV spectra  Fib + SIO2NP
+- noca: Number of CD spectra Fib + SIO2NP
+- irs: Index for reference spectrum
 ### Running Scripts
 In order to launch the scripts:
  - Edit the scripts assigning to the variable  `path` the path where  the folder `fibrinogen_dataset` is stored in your machine, e.g. path = '/Users/myworkingfolder/dataset_fibrinogen/'
