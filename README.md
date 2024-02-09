@@ -36,8 +36,10 @@ After the data are read by the scripts, the data are subjected to the following 
 .
 
 ### Input Variables
-
-
+The variables used by the script are the following:
+- nos: Number of UVRR spectra Fib, Fib + CNP, Fib + SIO2NP
+- nou: Number of UV spectra  Fib + CNP
+- noc: Number of CD spectra Fib + CNP
 
 ### Running Scripts
 In order to launch the scripts:
