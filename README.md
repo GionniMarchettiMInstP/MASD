@@ -50,7 +50,8 @@ In order to launch the scripts:
 
 
 ### Visualize
-
+The plots will be shown in a window after running the script.
+They will also be saved in pdf format inside a folder called "figures" that will be created in the directory containing the 'fibrinogen_dataset' folder.
 
 
 
