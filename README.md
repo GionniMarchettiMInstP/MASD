@@ -57,7 +57,7 @@ They will also be saved in pdf format inside a folder called "figures" that will
 
 ### Citation
 
-(Authors List) A Machine Learning Tool to Analyse Spectroscopic Changes in High-Dimensional Data published in Journal
+A. Martinez-Serra, G. Marchetti, F. D'Amico, I. Fenoglio, B. Rossi, M. P. Monopoli, and G. Franzese, Machine Learning Tool to Analyse Spectroscopic Changes in High-Dimensional Data, submitted (2025). DOI:10.48550/arXiv:2505.06466.
 
 
 
